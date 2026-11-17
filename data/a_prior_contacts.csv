@@ -1,0 +1,3 @@
+previously_contacted,count,mean,subscription_rate,contact_status
+0,35563,0.088322,8.832213,Not Previously Contacted
+1,5625,0.266489,26.648889,Previously Contacted

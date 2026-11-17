@@ -1,0 +1,5 @@
+Stage,Records remaining,Records removed at stage
+Original dataset,18846,0
+After removing short/empty records,17780,1066
+After removing duplicates,17703,77
+After removing zero-TF-IDF documents,17700,3

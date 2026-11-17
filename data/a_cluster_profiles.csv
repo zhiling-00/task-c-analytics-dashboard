@@ -1,0 +1,3 @@
+cluster,age,campaign,previous,emp.var.rate,cons.price.idx,cons.conf.idx,euribor3m,nr.employed,subscribed,previously_contacted,size,share
+0,40.194,2.8,0.026,1.116,93.843,-39.46,4.818,5213.399,0.048,0.026,27678,0.672
+1,39.675,2.092,0.473,-2.037,93.028,-42.639,1.17,5072.052,0.244,0.362,13510,0.328

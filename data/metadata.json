@@ -1,0 +1,25 @@
+{
+  "source_notebooks": [
+    "Task_A_Bank_Marketing(10).ipynb",
+    "Task_B_20Newsgroups_NMF_Complete(5).ipynb"
+  ],
+  "data_type": "saved notebook output snapshot; detailed row data not included unless user supplies exports",
+  "a": {
+    "records": 41188,
+    "subscribed": 4640,
+    "non_subscribed": 36548,
+    "previous_gt_zero": 5625,
+    "non_null_pdays": 1515,
+    "features": 8,
+    "retained_pcs": 5,
+    "retained_variance": 0.942785,
+    "best_k": 2,
+    "silhouette": 0.502225
+  },
+  "b": {
+    "original_docs": 18846,
+    "usable_docs": 17700,
+    "vocab": 15000,
+    "topics": 12
+  }
+}

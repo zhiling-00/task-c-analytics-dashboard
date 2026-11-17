@@ -1,0 +1,13 @@
+topic_id,label,dominant_documents,dominant_share,mean_relative_weight,top_terms
+11,General Opinions and Discussions,3005,0.169774,0.167579,"don, just, think, like, people, want, really, say"
+8,Government and International Conflicts,2648,0.149605,0.131194,"people, government, israel, state, war, childr..."
+0,Automotive and Motorcycles,1811,0.102316,0.105857,"car, bike, good, time, used, engine, cars, new"
+6,Windows and DOS Software,1770,0.1,0.089713,"windows, file, dos, program, files, window, us..."
+2,Sports and Competitions,1474,0.083277,0.077395,"game, team, games, year, hockey, play, season,..."
+4,Christianity and Religious Beliefs,1461,0.082542,0.083289,"god, jesus, bible, believe, christian, christ,..."
+10,General Information-Seeking Questions,1115,0.062994,0.070458,"does, know, does know, anybody, does anybody, ..."
+5,Classified Advertisements and Sales,1077,0.060847,0.069938,"sale, offer, interested, new, shipping, email,..."
+3,Help and Information Requests,980,0.055367,0.058621,"thanks, advance, thanks advance, mail, looking..."
+7,Encryption and Clipper Chip Technology,813,0.045932,0.05726,"key, chip, clipper, encryption, keys, use, pho..."
+1,Computer Graphics and Video Hardware,784,0.044294,0.045096,"card, video, monitor, bus, cards, video card, ..."
+9,Storage Drives and SCSI Hardware,762,0.043051,0.043601,"drive, scsi, hard, disk, drives, hard drive, i..."
